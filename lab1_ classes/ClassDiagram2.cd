@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="lab1__classes.Brush" Collapsed="true">
+    <Position X="0.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figures\Brush.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.BrushCreator" Collapsed="true">
+    <Position X="3" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creators\BrushCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.BrushDrawer" Collapsed="true">
+    <Position X="7.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Drawers\BrushDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.BrushInitializer" Collapsed="true">
+    <Position X="7.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Initializers\BrushInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.Circle" Collapsed="true">
+    <Position X="5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Figures\Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.CircleCreator" Collapsed="true">
+    <Position X="9.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creators\CircleCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.CircleDrawer" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Drawers\CircleDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.CircleInitializer" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Initializers\CircleInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.CreatorList" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lists\CreatorList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.Ellipse" Collapsed="true">
+    <Position X="5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Figures\Ellipse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.EllipseCreator" Collapsed="true">
+    <Position X="12" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creators\EllipseCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.EllipseDrawer" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Drawers\EllipseDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.EllipseInitializer" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Initializers\EllipseInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.Figure" Collapsed="true">
+    <Position X="3.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Figures\Figure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.FigureCreator" Collapsed="true">
+    <Position X="6.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creators\FigureCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.FigureDrawer" Collapsed="true">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Drawers\FigureDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.FigureInitializer" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Initializers\FigureInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.Figures" Collapsed="true">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEgABCAEBBAAxACCAAASiBAAQHAIFXACAACAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.InitializerList" Collapsed="true">
+    <Position X="14.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lists\InitializerList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.Line" Collapsed="true">
+    <Position X="2.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figures\Line.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.LineCreator" Collapsed="true">
+    <Position X="7.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creators\LineCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.LineDrawer" Collapsed="true">
+    <Position X="12" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Drawers\LineDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.LineInitializer" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Initializers\LineInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.Program" Collapsed="true">
+    <Position X="16.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.Rectangle" Collapsed="true">
+    <Position X="7.25" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figures\Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.RectangleCreator" Collapsed="true">
+    <Position X="5.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creators\RectangleCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.RectangleDrawer" Collapsed="true">
+    <Position X="9.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Drawers\RectangleDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.RectangleInitializer" Collapsed="true">
+    <Position X="9.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Initializers\RectangleInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.Square" Collapsed="true">
+    <Position X="7.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Figures\Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.SquareCreator" Collapsed="true">
+    <Position X="0.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creators\SquareCreator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.SquareDrawer" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Drawers\SquareDrawer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.SquareInitializer" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Initializers\SquareInitializer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.Properties.Resources" Collapsed="true">
+    <Position X="18" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.Properties.Settings" Collapsed="true">
+    <Position X="14.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="lab1__classes.DrawerList" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Lists\DrawerList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

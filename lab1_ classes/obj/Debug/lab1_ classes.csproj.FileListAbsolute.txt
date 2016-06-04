@@ -1,0 +1,49 @@
+D:\BSUIR\sem_4\ООТПиСП\lab1\lab1_ classes\lab1_ classes\bin\Debug\lab1_ classes.exe.config
+D:\BSUIR\sem_4\ООТПиСП\lab1\lab1_ classes\lab1_ classes\obj\Debug\lab1_ classes.csprojResolveAssemblyReference.cache
+D:\BSUIR\sem_4\ООТПиСП\lab1\lab1_ classes\lab1_ classes\obj\Debug\lab1__classes.Figures.resources
+D:\BSUIR\sem_4\ООТПиСП\lab1\lab1_ classes\lab1_ classes\obj\Debug\lab1__classes.Properties.Resources.resources
+D:\BSUIR\sem_4\ООТПиСП\lab1\lab1_ classes\lab1_ classes\obj\Debug\lab1_ classes.csproj.GenerateResource.Cache
+D:\BSUIR\sem_4\ООТПиСП\lab1\lab1_ classes\lab1_ classes\bin\Debug\lab1_ classes.exe
+D:\BSUIR\sem_4\ООТПиСП\lab1\lab1_ classes\lab1_ classes\bin\Debug\lab1_ classes.pdb
+D:\BSUIR\sem_4\ООТПиСП\lab1\lab1_ classes\lab1_ classes\obj\Debug\lab1_ classes.exe
+D:\BSUIR\sem_4\ООТПиСП\lab1\lab1_ classes\lab1_ classes\obj\Debug\lab1_ classes.pdb
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab1_ classes\lab1_ classes\bin\Debug\lab1_ classes.exe.config
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab1_ classes\lab1_ classes\obj\Debug\lab1_ classes.exe
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab1_ classes\lab1_ classes\obj\Debug\lab1_ classes.pdb
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab1_ classes\lab1_ classes\bin\Debug\lab1_ classes.exe
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab1_ classes\lab1_ classes\bin\Debug\lab1_ classes.pdb
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab1_ classes\lab1_ classes\obj\Debug\lab1_ classes.csprojResolveAssemblyReference.cache
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab1_ classes\lab1_ classes\obj\Debug\lab1__classes.Figures.resources
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab1_ classes\lab1_ classes\obj\Debug\lab1__classes.Properties.Resources.resources
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab1_ classes\lab1_ classes\obj\Debug\lab1_ classes.csproj.GenerateResource.Cache
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab2_mini_paint\lab1_ classes\bin\Debug\lab1_ classes.exe.config
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab2_mini_paint\lab1_ classes\obj\Debug\lab1_ classes.exe
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab2_mini_paint\lab1_ classes\obj\Debug\lab1_ classes.pdb
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab2_mini_paint\lab1_ classes\bin\Debug\lab1_ classes.exe
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab2_mini_paint\lab1_ classes\bin\Debug\lab1_ classes.pdb
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab2_mini_paint\lab1_ classes\obj\Debug\lab1_ classes.csprojResolveAssemblyReference.cache
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab2_mini_paint\lab1_ classes\obj\Debug\lab1__classes.Figures.resources
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab2_mini_paint\lab1_ classes\obj\Debug\lab1__classes.Properties.Resources.resources
+D:\BSUIR\sem_4\ООТПиСП\lab2\lab2_mini_paint\lab1_ classes\obj\Debug\lab1_ classes.csproj.GenerateResource.Cache
+D:\BSUIR\sem_4\ООТПиСП\lab4\lab2_mini_paint\lab1_ classes\bin\Debug\lab1_ classes.exe.config
+D:\BSUIR\sem_4\ООТПиСП\lab4\lab2_mini_paint\lab1_ classes\obj\Debug\lab1_ classes.exe
+D:\BSUIR\sem_4\ООТПиСП\lab4\lab2_mini_paint\lab1_ classes\obj\Debug\lab1_ classes.pdb
+D:\BSUIR\sem_4\ООТПиСП\lab4\lab2_mini_paint\lab1_ classes\obj\Debug\lab1_ classes.csprojResolveAssemblyReference.cache
+D:\BSUIR\sem_4\ООТПиСП\lab4\lab2_mini_paint\lab1_ classes\obj\Debug\lab1__classes.Figures.resources
+D:\BSUIR\sem_4\ООТПиСП\lab4\lab2_mini_paint\lab1_ classes\obj\Debug\lab1__classes.Properties.Resources.resources
+D:\BSUIR\sem_4\ООТПиСП\lab4\lab2_mini_paint\lab1_ classes\obj\Debug\lab1_ classes.csproj.GenerateResource.Cache
+D:\BSUIR\sem_4\ООТПиСП\lab4\lab2_mini_paint\lab1_ classes\bin\Debug\lab1_ classes.exe
+D:\BSUIR\sem_4\ООТПиСП\lab4\lab2_mini_paint\lab1_ classes\bin\Debug\lab1_ classes.pdb
+D:\BSUIR\sem_4\ООТПиСП\lab4\lab2_mini_paint\lab1_ classes\bin\Debug\MiniPaintAPI.dll
+D:\BSUIR\sem_4\ООТПиСП\lab5\lab2_mini_paint\lab1_ classes\bin\Debug\lab1_ classes.exe.config
+D:\BSUIR\sem_4\ООТПиСП\lab5\lab2_mini_paint\lab1_ classes\obj\Debug\lab1_ classes.exe
+D:\BSUIR\sem_4\ООТПиСП\lab5\lab2_mini_paint\lab1_ classes\obj\Debug\lab1_ classes.pdb
+D:\BSUIR\sem_4\ООТПиСП\lab5\lab2_mini_paint\lab1_ classes\bin\Debug\lab1_ classes.exe
+D:\BSUIR\sem_4\ООТПиСП\lab5\lab2_mini_paint\lab1_ classes\bin\Debug\lab1_ classes.pdb
+D:\BSUIR\sem_4\ООТПиСП\lab5\lab2_mini_paint\lab1_ classes\bin\Debug\MiniPaintAPI.dll
+D:\BSUIR\sem_4\ООТПиСП\lab5\lab2_mini_paint\lab1_ classes\obj\Debug\lab1_ classes.csprojResolveAssemblyReference.cache
+D:\BSUIR\sem_4\ООТПиСП\lab5\lab2_mini_paint\lab1_ classes\obj\Debug\lab1__classes.Figures.resources
+D:\BSUIR\sem_4\ООТПиСП\lab5\lab2_mini_paint\lab1_ classes\obj\Debug\lab1__classes.Properties.Resources.resources
+D:\BSUIR\sem_4\ООТПиСП\lab5\lab2_mini_paint\lab1_ classes\obj\Debug\lab1_ classes.csproj.GenerateResource.Cache
+D:\BSUIR\sem_4\ООТПиСП\lab5\lab2_mini_paint\lab1_ classes\bin\Debug\Newtonsoft.Json.dll
+D:\BSUIR\sem_4\ООТПиСП\lab5\lab2_mini_paint\lab1_ classes\bin\Debug\FunctionPluginAPI.dll
